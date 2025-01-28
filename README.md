@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1Wy8aRXOtB5qNdvYlhJ3HKNvIH6CgwAA9/view?usp=sharing
+https://forms.gle/XWgbZ9ktErX2Csjz7
 
 # Ferramentas de IA
 
