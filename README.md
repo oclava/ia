@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1Wy8aRXOtB5qNdvYlhJ3HKNvIH6CgwAA9/view?usp=sharing
+
 # Ferramentas de IA
 
 ## Gerar Imagens
