@@ -1,5 +1,3 @@
-https://forms.gle/XWgbZ9ktErX2Csjz7
-
 # Ferramentas de IA
 
 ## Gerar Imagens
