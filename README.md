@@ -19,7 +19,7 @@
 
 -   **Qualidade:** Excelente
     
--   **Descrição:** Especializada em geração de imagens de alta qualidade com rapidez. Plataforma 100% gratuíta.
+-   **Descrição:** Especializada em geração de imagens de alta qualidade com rapidez. Plataforma 100% gratuita.
     
 
 ### ChatGPT
