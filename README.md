@@ -14,6 +14,12 @@
 -   **Qualidade:** Excelente
     
 -   **Descrição:** Especializada em geração de imagens de alta qualidade com rapidez e variedade de estilos. Utiliza um sistema de tokens; o plano gratuito oferece 150 tokens diários.
+
+### Labs - ImageFX
+
+-   **Qualidade:** Excelente
+    
+-   **Descrição:** Especializada em geração de imagens de alta qualidade com rapidez e variedade de estilos. Utiliza um sistema de tokens; o plano gratuito oferece 150 tokens diários.
     
 
 ### ChatGPT
