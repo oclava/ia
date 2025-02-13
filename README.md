@@ -68,3 +68,7 @@
 ### Gemini
 
 -   **Descrição:** Modelo de linguagem desenvolvido pela Google, especializado em conversação e geração de texto.
+
+### DeepSeek
+
+-   **Descrição:** A DeepSeek é um modelo de linguagem desenvolvido para busca e análise de dados, especializado em interpretação de consultas complexas e geração de insights precisos.
