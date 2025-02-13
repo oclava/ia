@@ -47,9 +47,15 @@
 
 ### PixVerse
 
--   **Qualidade:** Não especificada
+-   **Qualidade:** Boa
     
--   **Descrição:** Não foram encontradas informações suficientes para fornecer detalhes precisos sobre esta ferramenta.
+-   **Descrição:** A ferramenta permite gerar 2 vídeos por dia.
+
+### Genmo
+
+-   **Qualidade:** Boa
+    
+-   **Descrição:** A qualidade é boa, porém existe uma fila para gerar seu vídeo de forma gratuita.
     
 
 ## Ferramentas de Conversação
