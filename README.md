@@ -72,6 +72,3 @@
 ### DeepSeek
 
 -   **Descrição:** A DeepSeek é um modelo de linguagem desenvolvido para busca e análise de dados, especializado em interpretação de consultas complexas e geração de insights precisos.
-
-Pesquisa de satisfação Segunda Etapa Brasil IA
-https://forms.gle/wso4C4dXwCFhNGGY6
